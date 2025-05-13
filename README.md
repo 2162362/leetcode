@@ -29,4 +29,4 @@ Unit tests are included for each solution to verify correctness.
 
 ## License
 
-MIT
+MIT License
